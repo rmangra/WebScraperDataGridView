@@ -18,3 +18,13 @@ C:\Users\Richard\Desktop\WSDatagridView\WSDatagridView\obj\Debug\WSDatagridView.
 C:\Users\Richard\Desktop\WSDatagridView\WSDatagridView\obj\Debug\WSDatagridView.csproj.CoreCompileInputs.cache
 C:\Users\Richard\Desktop\WSDatagridView\WSDatagridView\obj\Debug\WSDatagridView.exe
 C:\Users\Richard\Desktop\WSDatagridView\WSDatagridView\obj\Debug\WSDatagridView.pdb
+C:\Users\Richard\Source\Repos\WebScraperDataGridView\WSDatagridView\WSDatagridView\bin\Debug\WSDatagridView.exe.config
+C:\Users\Richard\Source\Repos\WebScraperDataGridView\WSDatagridView\WSDatagridView\bin\Debug\WSDatagridView.exe
+C:\Users\Richard\Source\Repos\WebScraperDataGridView\WSDatagridView\WSDatagridView\bin\Debug\WSDatagridView.pdb
+C:\Users\Richard\Source\Repos\WebScraperDataGridView\WSDatagridView\WSDatagridView\obj\Debug\WSDatagridView.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Source\Repos\WebScraperDataGridView\WSDatagridView\WSDatagridView\obj\Debug\WSDatagridView.Form1.resources
+C:\Users\Richard\Source\Repos\WebScraperDataGridView\WSDatagridView\WSDatagridView\obj\Debug\WSDatagridView.Properties.Resources.resources
+C:\Users\Richard\Source\Repos\WebScraperDataGridView\WSDatagridView\WSDatagridView\obj\Debug\WSDatagridView.csproj.GenerateResource.Cache
+C:\Users\Richard\Source\Repos\WebScraperDataGridView\WSDatagridView\WSDatagridView\obj\Debug\WSDatagridView.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Source\Repos\WebScraperDataGridView\WSDatagridView\WSDatagridView\obj\Debug\WSDatagridView.exe
+C:\Users\Richard\Source\Repos\WebScraperDataGridView\WSDatagridView\WSDatagridView\obj\Debug\WSDatagridView.pdb
